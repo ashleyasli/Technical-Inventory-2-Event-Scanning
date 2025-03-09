@@ -1,0 +1,11 @@
+{
+    "name": "event-case-study",
+    "version": "1.0.0",
+    "description": "A sample Event Producer/Consumer project in JS OOP",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
+  
